@@ -1,1 +1,1 @@
-This code for testing public service
+This script is for testing public service.
